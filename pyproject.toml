@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "resume"
+version = "0.1.0"
+description = ""
+authors = ["John Bruett <jbruett@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.group.dev.dependencies]
+mkdocs = "^1.5.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -10,3 +10,4 @@ plugins:
 exclude: ["README.md", "**/README.md"]
 
 timezone: America/New_York
+show_drafts: false

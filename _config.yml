@@ -8,3 +8,5 @@ email: test@bruett.com
 twitter_username: johnbruett
 
 exclude: ["README.md", "**/README.md"]
+
+timezone: America/New_York

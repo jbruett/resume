@@ -8,4 +8,7 @@ email: test@bruett.com
 twitter_username: johnbruett
 domain: dev.bruett.com
 url: https://dev.bruett.com
-baseurl: /REPOSITORY-NAME/
+permalink: "/:title"
+
+author:
+  name: John Bruett

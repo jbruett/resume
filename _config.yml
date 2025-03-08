@@ -6,3 +6,6 @@ title: my development website
 description: just a development website for me to play with
 email: test@bruett.com
 twitter_username: johnbruett
+domain: dev.bruett.com
+url: https://dev.bruett.com
+baseurl: /REPOSITORY-NAME/

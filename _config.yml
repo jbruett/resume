@@ -6,3 +6,5 @@ title: my development website
 description: just a development website for me to play with
 email: test@bruett.com
 twitter_username: johnbruett
+
+exclude: ["README.md", "**/README.md"]

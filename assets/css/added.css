@@ -1,0 +1,49 @@
+#footer {
+    border: 0;
+    outline: none;
+    margin: 0 0 50px 0;
+    padding: 0 0 5px 0;
+}
+
+#footer .credits {
+    font-size: 11px;
+    font-family: "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    color: #696969;
+    margin-top: -10px;
+}
+
+#footer .credits.left {
+    float: left;
+}
+
+#footer .credits.right {
+    float: right;
+}
+
+div.title-text {
+    overflow: hidden;
+}
+
+img.title-text {
+    width: 80px margin-right,20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+span.title-text {
+    width: 100%;
+    margin-right: -100px;
+    padding-right: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.container {
+    display:flex;
+    justify-content: space-between; /* Distributes space between items */
+}
+

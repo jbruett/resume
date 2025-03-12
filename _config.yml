@@ -1,7 +1,8 @@
 title: my development website
 description: just a development website for me to play with
 email: test@bruett.com
-twitter_username: johnbruett
+email-img: mail_30dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg
+
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
@@ -12,3 +13,20 @@ exclude: ["README.md", "**/README.md"]
 timezone: America/New_York
 show_drafts: false
 url: https://dev.bruett.com
+
+owner: John Bruett
+
+linkedin:
+  url: https://www.linkedin.com/in/johnbruett/
+  name: johnbruett
+  img: linkedin-svgrepo-com (1).svg
+
+github:
+  url: https://github.com/jbruett
+  name: jbruett
+  img: github-142-svgrepo-com.svg
+
+twitter:
+  url: https://twitter.com/johnbruett
+  name: johnbruett
+  img: twitter-2-svgrepo-com.svg
